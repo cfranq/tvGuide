@@ -1,0 +1,10 @@
+{
+    "name": "Stretch Mode",
+    "description" : "Saving lives one stretch at a time.",
+    "version": "1.0",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "index.html",
+        "default_icon": "yoga.png"
+    }
+}
